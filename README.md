@@ -1,1 +1,6 @@
-# mocha_node_esm_type_module
+# Demo of how to use mocha with esm node app and type module
+
+````bash
+$ npm i
+$ npm test
+````

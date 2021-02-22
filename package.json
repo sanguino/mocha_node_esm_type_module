@@ -1,0 +1,26 @@
+{
+  "name": "mocha_node_esm_type_module",
+  "version": "1.0.0",
+  "description": "Demo of how to use mocha with esm node app and type module",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanguino/mocha_node_esm_type_module.git"
+  },
+  "author": {
+    "name": "Miguel G. Sanguino",
+    "url": "https://github.com/sanguino"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sanguino/mocha_node_esm_type_module/issues"
+  },
+  "homepage": "https://github.com/sanguino/mocha_node_esm_type_module#readme",
+  "devDependencies": {
+    "mocha": "^8.3.0"
+  }
+}
